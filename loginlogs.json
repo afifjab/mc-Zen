@@ -1,0 +1,100 @@
+[
+    {
+        "LOGIN": [
+            {
+                "date": "Sat Dec 12 2020 21:00:00 GMT+0100 (GMT+01:00)",
+                "users": [
+                    {
+                        "user": "afif@gmail.com",
+                        "action": "login",
+                        "date": "2020-12-12T20:00:00.000Z"
+                    }
+                ]
+            },
+            {
+                "date": "Thu Dec 24 2020 02:00:00 GMT+0100 (GMT+01:00)",
+                "users": [
+                    {
+                        "user": "user4@gmail.com",
+                        "action": "login",
+                        "date": "2020-12-24T01:00:00.000Z"
+                    }
+                ]
+            },
+            {
+                "date": "Sun Sep 27 2020 02:00:00 GMT+0200 (GMT+02:00)",
+                "users": [
+                    {
+                        "user": "user8@gmail.com",
+                        "action": "login",
+                        "date": "2020-09-27T00:00:00.000Z"
+                    },
+                    {
+                        "user": "user9@gmail.com",
+                        "action": "login",
+                        "date": "2020-09-27T00:00:00.000Z"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "LOGOUT": [
+            {
+                "date": "Sat Dec 12 2020 22:00:00 GMT+0100 (GMT+01:00)",
+                "users": [
+                    {
+                        "user": "user2@gmail.com",
+                        "action": "logout",
+                        "date": "2020-12-12T21:00:00.000Z"
+                    }
+                ]
+            },
+            {
+                "date": "Wed Dec 23 2020 13:00:00 GMT+0100 (GMT+01:00)",
+                "users": [
+                    {
+                        "user": "user3@gmail.com",
+                        "action": "logout",
+                        "date": "2020-12-23T12:00:00.000Z"
+                    }
+                ]
+            },
+            {
+                "date": "Thu Dec 24 2020 01:00:00 GMT+0100 (GMT+01:00)",
+                "users": [
+                    {
+                        "user": "user4@gmail.com",
+                        "action": "logout",
+                        "date": "2020-12-24T00:00:00.000Z"
+                    }
+                ]
+            },
+            {
+                "date": "Fri Dec 11 2020 01:00:00 GMT+0100 (GMT+01:00)",
+                "users": [
+                    {
+                        "user": "user5@gmail.com",
+                        "action": "logout",
+                        "date": "2020-12-11T00:00:00.000Z"
+                    },
+                    {
+                        "user": "user6@gmail.com",
+                        "action": "logout",
+                        "date": "2020-12-11T00:00:00.000Z"
+                    }
+                ]
+            },
+            {
+                "date": "Tue Dec 01 2020 01:00:00 GMT+0100 (GMT+01:00)",
+                "users": [
+                    {
+                        "user": "user7@gmail.com",
+                        "action": "logout",
+                        "date": "2020-12-01T00:00:00.000Z"
+                    }
+                ]
+            }
+        ]
+    }
+]
